@@ -1,19 +1,47 @@
-# Getting Started
-Install the dependencies and run the project
+# 🍪 Cookie Baker
+
+A fun and simple cookie counting web app! Users can click a button to simulate putting cookies in the oven, then bake them to update the total count.
+
+## 🚀 Demo
+
+![Cookie Baker Screenshot](baking-cookies.jpg)  
+*Background image used in the app*
+
+## 🧁 Features
+
+- Increment cookies currently in the oven
+- "Bake" to save the total baked cookies
+- Whimsical and fun UI using the Patrick Hand font
+- Smooth button animations and responsive layout
+
+## 📂 Project Structure
+
 ```
-npm install
-npm start
+Cookie-Baker/
+├── index.html      # Main HTML structure
+├── index.css       # Styling and layout
+└── index.js        # App functionality
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## 🛠️ How It Works
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Clicking **PUT IN OVEN** increases the cookie count.
+- Clicking **BAKE** adds the current count to the total baked cookies and resets the oven.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 📦 Installation
 
-Happy Coding!
+1. Clone or download this repository.
+2. Open `index.html` in any modern web browser.
+
+```bash
+git clone https://github.com/your-username/cookie-baker.git
+cd cookie-baker
+open index.html
+```
+
+> No build tools or dependencies required — it's pure HTML, CSS, and JS
+
+## 🎨 Credits
+
+- Font: [Patrick Hand - Google Fonts](https://fonts.google.com/specimen/Patrick+Hand)
+- Background Image: Google Images
