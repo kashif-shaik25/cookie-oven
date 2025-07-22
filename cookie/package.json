@@ -1,6 +1,7 @@
 {
-  "name": "Scrim-s03i8nc",
-  "description": "https://scrimba.com/learn-javascript-c0v/~0t/s045uuarp6/head",
+  "name": "cookie-baker",
+  "version": "1.0.0",
+  "description": "A cookie counter app"
   "scripts": {
     "start": "vite",
     "dev": "vite",
